@@ -1,0 +1,22 @@
+
+.hippy-archive-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.hippy-archive-list .year {
+  cursor: pointer;
+}
+
+.hippy-archive-list li > ul {
+  margin: 0;
+  padding: 0;
+  display: none;
+}
+
+
+.hippy-archive-list li:first-child > ul {
+  display: block;
+}
+
