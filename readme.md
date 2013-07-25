@@ -1,4 +1,4 @@
-### Better wordpress archives widget
+### Better wordpress archive widget
 
 #### How
 
@@ -12,4 +12,4 @@
 
   Clone the repo to your ``wp-content/plugins`` folder
 
- `$ git clone git://github.com/kamweti/hippy-archives-widget.git hippy-archives`
+ `$ git clone git://github.com/kamweti/hippy-archives-widget.git hippy-archive`
