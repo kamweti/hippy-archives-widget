@@ -8,7 +8,7 @@
 
 * Months with activity are linkified
 
-### Installation
+#### Installation
 
   Clone the repo to your ``wp-content/plugins`` folder
 
